@@ -1,5 +1,5 @@
 # Windows File Cerification Files
-- All either found from online forums or sent to me personally! I am the original creator / uploader for these certs. I am just making these public as these are already leaked!
+- All either found from online forums or sent to me personally! I am NOT the original creator / uploader for these certs. I am just making these public as these are already leaked!
 - If you know how to use these, then have as much fun as you want!
 
 # Disclaimer
